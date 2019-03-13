@@ -1,4 +1,4 @@
-# Template for Single Page Application using React and Webpack
+# Search github users
 
 To start:
 
@@ -8,6 +8,3 @@ Start dev server by:
 
 ```npm run start:dev```
 
-To build and generate dist:
-
-```npx wepback```
